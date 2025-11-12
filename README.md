@@ -1,24 +1,4 @@
-TMT_Lodge_Website/
-│
-├── index.html
-├── style.css
-└── images/
-    ├── 5hNKvtRt.jpg
-    ├── r2mw050V.jpg
-    ├── 9D1DLXq.jpg
-    ├── wryfZC3k.jpg
-    ├── 5VzGSKj.jpg
-    ├── twj8fn1T.jpg
-    ├── cKdKmwDx.jpg
-    ├── jvzWNrTm.jpg
-    ├── LD9n0ddh.jpg
-    ├── fG9Czq34.jpg
-    ├── YFc5C7Nm.jpg
-    ├── SD9LcLm3.jpg
-    ├── hn0khtw.jpg
-    ├── Z1Gj89JW.jpg
-    ├── 5XSx3k86.jpg
-    └── 5gvr26Xm.jpg
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
