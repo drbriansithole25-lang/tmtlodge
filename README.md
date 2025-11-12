@@ -1,12 +1,12 @@
-<img src="images/lodge1.jpg" alt="Lodge Exterior">
-<img src="images/lodge2.jpg" alt="Pool Area">
-<img src="images/lodge3.jpg" alt="Luxury Rooms">
-
-<img src="images/pool1.jpg" alt="Pool Night View 1">
-<img src="images/pool2.jpg" alt="Pool Night View 2">
-<img src="images/pool3.jpg" alt="Stairs Night Lighting">
-<img src="images/pool4.jpg" alt="Bar and Poolside">
-<img src="images/pool5.jpg" alt="Bright Pool Night">
+images/
+ ┣ lodge1.jpg
+ ┣ lodge2.jpg
+ ┣ lodge3.jpg
+ ┣ pool1.jpg
+ ┣ pool2.jpg
+ ┣ pool3.jpg
+ ┣ pool4.jpg
+ ┗ pool5.jpg
 <!DOCTYPE html>
 <html lang="en">
 <head>
