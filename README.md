@@ -1,12 +1,12 @@
 images/
- ┣ lodge1.jpg
- ┣ lodge2.jpg
- ┣ lodge3.jpg
- ┣ pool1.jpg
- ┣ pool2.jpg
- ┣ pool3.jpg
- ┣ pool4.jpg
- ┗ pool5.jpg
+<img src="images/lodge1.jpg"> <img src="images/lodge1.jpg" >
+ <img src="images/lodge2.jpg" >
+  <img src="images/lodge3.jpg" >
+  <img src="images/pool1.jpg" >
+ <img src="images/pool2.jpg" >
+ <img src="images/pool3.jpg" >
+ <img src="images/pool4.jpg" >
+ <img src="images/pool5.jpg" >
 <!DOCTYPE html>
 <html lang="en">
 <head>
