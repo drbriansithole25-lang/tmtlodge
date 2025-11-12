@@ -1,16 +1,14 @@
-TMT-Lodge/
-│
-├─ index.html
-├─ style.css
-├─ images/
-│    ├─ lodge1.jpg
-│    ├─ lodge2.jpg
-│    ├─ lodge3.jpg
-│    ├─ pool1.jpg
-│    ├─ pool2.jpg
-│    ├─ pool3.jpg
-│    ├─ pool4.jpg
-│    └─ pool5.jpg
+index.html
+style.css
+/images/
+   lodge1.jpg
+   lodge2.jpg
+   lodge3.jpg
+   pool1.jpg
+   pool2.jpg
+   pool3.jpg
+   pool4.jpg
+   pool5.jpg
 <!DOCTYPE html>
 <html lang="en">
 <head>
